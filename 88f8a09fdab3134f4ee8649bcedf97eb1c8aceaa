@@ -1,0 +1,1 @@
+{"jobID":"6b7fa710-2d27-4bff-5c97-6ecbde75f9f9","spec":{"type":"policy","cause":{"Message":"","User":"Saikrishnareddy karri \u003crowiso2603@5y5u.com\u003e"},"spec":{"lasample:deployment/hello":{"add":null,"remove":{"automated":"true"}}}},"result":null}
